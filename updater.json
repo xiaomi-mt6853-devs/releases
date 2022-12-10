@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1668027503,
-      "filename": "lineage-19.1-20221109-UNOFFICIAL-cannon.zip",
-      "id": "c9e5a89aa6f9a72a8e098b64971d033a",
+      "datetime": 1670686210,
+      "filename": "lineage-19.1-20221210-UNOFFICIAL-cannon.zip",
+      "id": "4f39fef2a31e5afda06777e093ca9783",
       "romtype": "unofficial",
-      "size": 986906650,
-      "url": "https://github.com/xiaomi-mt6853-devs/releases/releases/download/6/lineage-19.1-20221109-UNOFFICIAL-cannon.zip",
+      "size": 991936271,
+      "url": "https://github.com/xiaomi-mt6853-devs/releases/releases/download/7/lineage-19.1-20221210-UNOFFICIAL-cannon.zip",
       "version": "19.1"
     }
   ]
