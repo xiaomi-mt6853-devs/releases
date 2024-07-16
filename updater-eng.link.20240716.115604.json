@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1721130789,
+      "filename": "lineage-20.0-20240716-UNOFFICIAL-cannon.zip",
+      "id": "99fb2cd85ef9afee0d9cc4145c0a4818",
+      "romtype": "unofficial",
+      "size": 1036380319,
+      "url": "https://github.com/xiaomi-mt6853-devs/releases/releases/download/20240716/lineage-20.0-20240716-UNOFFICIAL-cannon.zip",
+      "version": "20.0"
+    }
+  ]
+}
